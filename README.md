@@ -2,16 +2,20 @@
 
 This repo draws the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set), which is a fractal meaning that it’s made of little replicas of itself. Fractals are fascinating structures and very present in nature too.
 
-![MANDELBROT1](images/mandelbrot1.png)
+<p align="center">
+    <img src=images/mandelbrot1.png>
+</p>
 
-![MANDELBROT2](images/mandelbrot2.png)
+<p align="center">
+    <img src=images/mandelbrot2.png>
+</p>
 
 The Mandelbrot set is the set of complex numbers c for which the sequence
-    
-    z_{0}   = 0
-    
-    z_{n+1} = z_{n}^2 + c
-    
+
+<img align="left" src="https://latex.codecogs.com/svg.latex?\Large&space;z_{0}~~=0" />
+
+<img align="left" src="https://latex.codecogs.com/svg.latex?\Large&space;z_{n+1}=z_{n}^2+c" />
+
 converges.
 
 Mandelbrot set images may be created by sampling the complex numbers and testing, for each sample point c, whether the sequence goes to infinity (in practice — whether it leaves some predetermined bounded neighborhood of 0 after a predetermined number of iterations). Treating the real and imaginary parts of c as image coordinates on the complex plane, pixels may then be colored according to how soon the sequence crosses an arbitrarily chosen threshold.
