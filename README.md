@@ -12,9 +12,9 @@ This repo draws the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_se
 
 The Mandelbrot set is the set of complex numbers c for which the sequence
 
-<img align="left" src="https://latex.codecogs.com/svg.latex?\Large&space;z_{0}~~=0" />
+<img align="left" src="https://latex.codecogs.com/svg.latex?\Large&space;z_{0}~~=0\\" />
 
-<img align="left" src="https://latex.codecogs.com/svg.latex?\Large&space;z_{n+1}=z_{n}^2+c" />
+<img align="left" src="https://latex.codecogs.com/svg.latex?\Large&space;z_{n+1}=z_{n}^2+c\newline" />
 
 converges.
 
