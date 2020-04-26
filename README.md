@@ -12,6 +12,12 @@ This repo draws the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_se
 
 The Mandelbrot set is the set of complex numbers c for which the sequence
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{center}&space;\begin{aligned}&space;z_{0}&space;&=&space;0&space;\\&space;z_{n&plus;1}&space;&=&space;z_{n}^2&plus;c&space;\end{aligned}&space;\end{center}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{center}&space;\begin{aligned}&space;z_{0}&space;&=&space;0&space;\\&space;z_{n&plus;1}&space;&=&space;z_{n}^2&plus;c&space;\end{aligned}&space;\end{center}" title="\begin{center} \begin{aligned} z_{0} &= 0 \\ z_{n+1} &= z_{n}^2+c \end{aligned} \end{center}" /></a>
+
+xxx
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{aligned}&space;z_{0}&space;&=&space;0&space;\\&space;z_{n&plus;1}&space;&=&space;z_{n}^2&plus;c&space;\end{aligned}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{aligned}&space;z_{0}&space;&=&space;0&space;\\&space;z_{n&plus;1}&space;&=&space;z_{n}^2&plus;c&space;\end{aligned}" title="\begin{aligned} z_{0} &= 0 \\ z_{n+1} &= z_{n}^2+c \end{aligned}" /></a>
+
 <img align="left" src="https://latex.codecogs.com/svg.latex?\Large&space;z_{0}~~=0\\z_{n+1}=z_{n}^2+c" />
 
 <img align="left" src="https://latex.codecogs.com/svg.latex?\Large&space;z_{n+1}=z_{n}^2+c\newline" />
