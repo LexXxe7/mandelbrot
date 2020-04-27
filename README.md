@@ -25,7 +25,7 @@ To obtain a continuous image - meaning a smooth transition from color to color -
     <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{aligned}&space;r(t)&space;&=&space;\hspace{2.1mm}&space;9.45&space;\hspace{2.1mm}&space;*&space;(1&space;-&space;t)&space;\hspace{1.6mm}&space;*&space;t^{3}&space;\\&space;g(t)&space;&=&space;15.75&space;\hspace{2.1mm}&space;*&space;(1&space;-&space;t)^{2}&space;*&space;t^{2}&space;\\&space;b(t)&space;&=&space;\hspace{2.1mm}&space;8.925&space;*&space;(1&space;-&space;t)^{3}&space;*&space;t&space;\end{aligned}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{aligned}&space;r(t)&space;&=&space;\hspace{2.1mm}&space;9.45&space;\hspace{2.1mm}&space;*&space;(1&space;-&space;t)&space;\hspace{1.6mm}&space;*&space;t^{3}&space;\\&space;g(t)&space;&=&space;15.75&space;\hspace{2.1mm}&space;*&space;(1&space;-&space;t)^{2}&space;*&space;t^{2}&space;\\&space;b(t)&space;&=&space;\hspace{2.1mm}&space;8.925&space;*&space;(1&space;-&space;t)^{3}&space;*&space;t&space;\end{aligned}" title="\begin{aligned} r(t) &= \hspace{2.1mm} 9.45 \hspace{2.1mm} * (1 - t) \hspace{1.6mm} * t^{3} \\ g(t) &= 15.75 \hspace{2.1mm} * (1 - t)^{2} * t^{2} \\ b(t) &= \hspace{2.1mm} 8.925 * (1 - t)^{3} * t \end{aligned}" /></a>
 </p>
 
-They are continuous, smooth and have values in the <a href="https://www.codecogs.com/eqnedit.php?latex=[0,&space;1)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?[0,&space;1)" title="[0, 1)" /></a> interval.
+They are continuous, smooth and have values in the [0, 1) interval.
 Finally, for plotting, an image file format called [PPM](https://en.wikipedia.org/wiki/Netpbm_format#PPM_example) is used.
 
 ## Overview of Code Structure
